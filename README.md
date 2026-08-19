@@ -17,6 +17,14 @@
 
 <br>
 
+### 🚀 Live Demo
+
+[![Open Live App](https://img.shields.io/badge/🚀%20Open%20Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lakshpri-ml-fundamentals-to-projects-app-frhwtv.streamlit.app/)
+
+**Try the Machine Learning application live 👆**
+
+<br>
+
 > ✨ **Learn → Understand → Code → Experiment → Build → Deploy → Explain** ✨
 
 </div>
